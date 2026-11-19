@@ -1,8 +1,8 @@
 class Deadwax < Formula
   desc "Terminal music player for Navidrome and other Subsonic servers"
   homepage "https://github.com/voidrender/deadwax"
-  url "https://github.com/voidrender/deadwax/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "a75915b88670806ffbbcd5eba2d257af7bfd67974f31a8edf92521884ea92693"
+  url "https://github.com/voidrender/deadwax/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "d631115e71e7066f692880fad6ad6da51c86433e8320172b4bb8b304dac183b0"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/voidrender/deadwax.git", branch: "main"
 
